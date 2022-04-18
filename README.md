@@ -4,3 +4,6 @@
 Clone o repositório 
   </br>
 - `npm install`
+
+# Executar projeto 
+- `npm run dev`
